@@ -1,0 +1,62 @@
+
+body{
+
+
+
+}
+
+
+.wrap
+{
+
+   background-color: #9fcdff;
+
+    min-height: 28vh;
+    text-align: center;
+    font-size: 5vh;
+    background-image: url("../img/p.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.wrap1
+{
+    min-height: 28vh;
+    text-align: center;
+    font-size: 5vh;
+    background-color: #20c997;
+
+}
+
+
+
+.header
+{
+line-height: 200%;
+font-size: 8vh;
+
+}
+
+.contact
+{
+
+
+    text-align:center;
+
+}
+
+.c
+{
+    background-color: #20c997;
+    font-size: 3vh;
+    text-align: center;
+}
+
+
+.content
+{
+
+    min-height: 70vh;
+    background-color:aquamarine;
+
+}
