@@ -1,6 +1,7 @@
 
 body{
 
+    font-family: 'Lato', sans-serif;
 
 
 }
@@ -23,9 +24,10 @@ body{
 {
     min-height: 28vh;
     text-align: center;
-    font-size: 5vh;
     background-color: #20c997;
-
+    box-sizing: border-box;
+    padding:1vh;
+    overflow: hidden;
 }
 
 
@@ -33,7 +35,7 @@ body{
 .header
 {
 line-height: 200%;
-font-size: 8vh;
+font-size: 7vh;
 
 }
 
@@ -42,7 +44,9 @@ font-size: 8vh;
 
 
     text-align:center;
-
+    background-color:#171a1d;
+    color:white;
+    font-size:2.5vh;
 }
 
 .c
@@ -50,6 +54,8 @@ font-size: 8vh;
     background-color: #20c997;
     font-size: 3vh;
     text-align: center;
+    padding: 1.5vh;
+    margin: 0;
 }
 
 
@@ -58,5 +64,38 @@ font-size: 8vh;
 
     min-height: 70vh;
     background-color:aquamarine;
+
+}
+
+.s
+{
+
+    font-size: 3vh;
+
+
+
+}
+
+
+
+ul>li>i
+{
+    font-size: 3vh;
+    color: white;
+
+}
+
+ul
+{
+    margin:0;
+
+
+}
+
+ul>li
+{
+    padding: 10px;
+
+
 
 }
